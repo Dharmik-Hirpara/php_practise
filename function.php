@@ -45,6 +45,5 @@ echo "The value of num is $num\n";
 function addnumber(int $a, int $b){
     return $a + $b;
 }
-echo addnumber(5, "5 days");
-`                                                                                                                                   
+echo addnumber(5, "5 days");                                                                                                                                  
 ?>
